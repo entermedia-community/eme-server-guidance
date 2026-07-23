@@ -5,9 +5,13 @@
 	},
 	"java.jdt.ls.java.home": "/usr/lib/jvm/default-java",
 	"java.configuration.runtimes": [
-		{
-			"name": "JavaSE",
-			"path": "/usr/lib/jvm/default-java"
+		{		
+			"name": "JavaSE-21",
+			"path": "/usr/lib/jvm/default-java",
+			"default": true
 		}
-	]
+	],
+	"git.rebaseWhenSync": true,
+	"git.autoStash": true
 }
+
