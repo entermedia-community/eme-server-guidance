@@ -3,6 +3,9 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "",
+		},
 	],
 	"settings": {
 		"java.autobuild.enabled": true,
@@ -15,6 +18,5 @@
 			"files.autoSave": "onFocusChange",
 			"editor.formatOnSave": true,
 		},
-		"java.debug.settings.onBuildFailureProceed": true,
 	},
 }
