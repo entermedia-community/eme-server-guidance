@@ -19,3 +19,4 @@ webapp/WEB-INF/data/repos
 #/webapp/WEB-INF/data/repos
 .DS_Store
 
+!webapp/WEB-INF/data/catalog/lists/smartorganizer.xml
